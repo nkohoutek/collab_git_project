@@ -1,0 +1,11 @@
+•	What is HTML?
+HTML is a HyperText Markup Language. It descripes webpages and builds the structure of the webpage. 
+Hypertext ist the method used for surfing the web.
+Hyper means, that you can browse the web without any order. HTML consists of elements.
+•	How many versions of HTML do you know?
+•	How does the basic anatomy of a web page look like?
+Header, (Hero Image) Main Content (with stuff on the side), Footer
+•	Could you describe the constituting parts of Web page? Open your favorite website in your browser and try to find these parts in it.
+•	What are HTML elements? What is the difference between opening and closing tags?
+•	Could you describe the Page Structure of an HTML document explaining each element?
+•	Why code validation is important?
